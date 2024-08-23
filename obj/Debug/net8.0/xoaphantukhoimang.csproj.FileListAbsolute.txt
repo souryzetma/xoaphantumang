@@ -1,0 +1,14 @@
+E:\xoaphantukhoimang\bin\Debug\net8.0\xoaphantukhoimang.exe
+E:\xoaphantukhoimang\bin\Debug\net8.0\xoaphantukhoimang.deps.json
+E:\xoaphantukhoimang\bin\Debug\net8.0\xoaphantukhoimang.runtimeconfig.json
+E:\xoaphantukhoimang\bin\Debug\net8.0\xoaphantukhoimang.dll
+E:\xoaphantukhoimang\bin\Debug\net8.0\xoaphantukhoimang.pdb
+E:\xoaphantukhoimang\obj\Debug\net8.0\xoaphantukhoimang.GeneratedMSBuildEditorConfig.editorconfig
+E:\xoaphantukhoimang\obj\Debug\net8.0\xoaphantukhoimang.AssemblyInfoInputs.cache
+E:\xoaphantukhoimang\obj\Debug\net8.0\xoaphantukhoimang.AssemblyInfo.cs
+E:\xoaphantukhoimang\obj\Debug\net8.0\xoaphantukhoimang.csproj.CoreCompileInputs.cache
+E:\xoaphantukhoimang\obj\Debug\net8.0\xoaphantukhoimang.dll
+E:\xoaphantukhoimang\obj\Debug\net8.0\refint\xoaphantukhoimang.dll
+E:\xoaphantukhoimang\obj\Debug\net8.0\xoaphantukhoimang.pdb
+E:\xoaphantukhoimang\obj\Debug\net8.0\xoaphantukhoimang.genruntimeconfig.cache
+E:\xoaphantukhoimang\obj\Debug\net8.0\ref\xoaphantukhoimang.dll
